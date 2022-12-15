@@ -12,3 +12,7 @@ Helpful links:
 - [line properties](https://www.mathworks.com/help/matlab/ref/matlab.graphics.primitive.line-properties.html)
 - [axes properties](https://www.mathworks.com/help/matlab/ref/matlab.graphics.axis.axes-properties.html?searchHighlight=axes%20properties&s_tid=srchtitle_axes%20properties_1)
 - [(ui) figure properties](https://www.mathworks.com/help/matlab/ref/matlab.ui.figureappd-properties.html)
+
+# Style 
+
+For students programming in MATLAB, please refer to this [style guide](https://sites.google.com/site/matlabstyleguidelines/home) for styling your code. 
